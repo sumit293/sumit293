@@ -15,6 +15,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sumit293.sumit293&"  />
+</div>
+
+###
+
 <h1 align="center">hey there 👋 m  sumit :)</h1>
 
 ###
@@ -56,7 +62,23 @@
 ###
 
 <div align="center">
+  <img src="https://streak-stats.demolab.com?user=sumit293&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
   <img height="200" src="https://ineedanime.com/wp-content/uploads/2021/09/Kazuya-Souma-cheers-Realist-Hero-Rebuilt-Kingdom.gif"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/sumit293/sumit293/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sumit293.sumit293&"  />
 </div>
 
 ###
