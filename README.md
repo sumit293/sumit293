@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m student<br>- 📚 I'm currently learning  c++, dsa and much more<br>- ⚡ In my free time I  do research  for engines like rendering engine , search engine  etc..</p>
+<p align="left">- 🔭 I’m student<br>- 📚 I'm currently learning  c++, dsa and much more<br>- ⚡ In my free time I  do research  on computung accelerators  etc..</p>
 
 ###
 
