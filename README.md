@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on  DevPilot a RAG based webApp that solve your queries of any uploaded github project <br><br>⚡ Fun fact  :  every thing about me is fun   u  just need to  explore me ;)
+M currently working on  DevPilot a RAG based webApp that solve your queries of any uploaded github project <br><br>⚡ Fun fact  :  every thing about me is fun   u  just need to  explore me ;)
 
 
 ## 🌐 Socials:
